@@ -1,0 +1,25 @@
+event_name,elapsed_time,conversion factor,elapsed_time_(hours)
+1969: ARPANET first message sent,50,8760,438000
+1982: TCP/IP invented,35,8760,306600
+1983: DNS ,34,8760,297840
+1990: Tim Berners-Lee develops HTML,29,8760,254040
+1991: CERN introduces World Wide Web,28,8760,245280
+1994: Netscape browser for Windows 95. Yahoo was created,25,8760,219000
+"1995: Amazon.com, Craigslist and eBay go live",24,8760,210240
+"1998: The Google search engine is born, IPv6",21,8760,183960
+2000: Peer-to-peer file sharing with Napster. First large-scale denial-of-service attacks,19,8760,166440
+"2003: Myspace, Skype and the Safari Web browser debut. Launch of WordPress",16,8760,140160
+2004: Facebook goes online and the era of social networking begins,15,8760,131400
+2005: YouTube.com launches,14,8760,122640
+2006: Twitter launches.,13,8760,113880
+2010: Pinterest and Instagram launch,9,8760,78840
+2013: Edward Snowden reveals that the NSA is monitoring communications.,6,8760,52560
+"2016: Smart deviced like Alexa, Siri and Google Home",3,8760,26280
+2017/09: Marie enrols at Code,1.5,8760,13140
+2017/11: Marie learns Ruby,1.417,8760,12412.92
+2017/12: Marie learns HTML,1.3333,8760,11679.708
+2018/01: Marie learns Vue.js,1.25,8760,10950
+2018/05: Marie learns C,0.917,8760,8032.92
+2018/9: Marie learns JS,0.58333,8760,5109.9708
+2018/11: Marie learns Django,0.455,8760,3985.8
+2019/01: Marie learns Python,0.25,8760,2190
